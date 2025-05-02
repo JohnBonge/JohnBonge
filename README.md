@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi there 👋, I'm John Sylvester</h1>
 <h3 align="center">Aspiring Data Engineer & Software Engineer | Backend Engineering & Data Science Learner @ ALX</h3>
 
