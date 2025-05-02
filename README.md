@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently learning **Backend Engineering and Data Science** at ALX.
+- 🔭 I’m currently working as a product manager while learning **Backend Engineering and Data Science** at ALX.
 - 💡 Passionate about **Coding**, **Computational Mathematics**, and **Statistics**.
 - 🎯 My goal is to become a **Data Engineer** and **Software Engineer**.
 - 🤖 Interested in working at the intersection of **Machine Learning** and **Software Engineering**.
@@ -74,9 +74,9 @@
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-linkedin)
+- 💼 [LinkedIn](https://linkedin.com/in/johnsrucibigango)
 - 🌐 [Portfolio Website](https://yourportfolio.com)
-- 📧 youremail@example.com
+- 📧 rjbigango@gmail.com
 
 ---
 
@@ -97,6 +97,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
