@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm John Sylvester</h1>
-<h3 align="center">Product Manager & WordPress Developer | Custom Plugin Builder | API Integrator</h3>
+<h3 align="center">Senior Product Manager & WordPress Developer | Custom Plugin Builder | API Integrator</h3>
 
 <p align="center">
   <a href="https://github.com/JohnBonge">
